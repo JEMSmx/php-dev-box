@@ -1,0 +1,1 @@
+vagrant package --output ~/Desktop/package-php-dev.$(date +%Y%m%d).0.0.box
